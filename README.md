@@ -21,6 +21,8 @@ I'm a passionate PHP & Laravel developer based in Sylhet, Bangladesh. I love exp
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
+  
+## Top languages
   ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekpredix&size_weight=0.5&count_weight=0.5)
 
 
